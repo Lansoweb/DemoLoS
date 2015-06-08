@@ -1,0 +1,19 @@
+{
+  "name" : "los/los-skeleton-application",
+  "description" : "LoS Skeleton application",
+  "require" : {
+    "php" : ">=5.4.0",
+    "zendframework/zendframework" : "~2.3",
+    "los/losbase" : "~2.5",
+    "los/losui" : "~1.0",
+    "los/loslicense" : "dev-master",
+    "los/losdomain" : "dev-master"
+  },
+  "require-dev" : {
+    "zendframework/zend-developer-tools" : "=0.0.2",
+    "los/loslog" : "~1.0"
+  },
+  "license" : "BSD-3-Clause",
+  "keywords" : [ "framework", "zf2" ],
+  "homepage" : "http://github.com/LansoWeb/LosSkeletonApplication"
+}
